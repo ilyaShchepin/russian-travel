@@ -1,5 +1,5 @@
 .cover__overlay {
-  background: url(/image/__background.png);
+  background: url(../../../image/__background.png);
   background-size: cover;
   position: relative;
   max-width: 1184px;
