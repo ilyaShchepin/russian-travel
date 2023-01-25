@@ -19,6 +19,20 @@
   }
 }
 
+@media screen and (max-width: 546px) {
+  .footer {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 482px) {
+  .footer {
+    flex-direction: column;
+    margin-top: 64px;
+    margin-left: 16px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .footer {
     max-width: 186px;

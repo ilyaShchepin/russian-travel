@@ -12,21 +12,29 @@
 
 @media screen and (max-width: 1024px) {
   .place__paragraph {
-  max-width: 456px;
+      max-width: 456px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
-  max-width: 352px;
-  font-size: 16px;
-  line-height: 26.08px;
+      max-width: 352px;
+      font-size: 16px;
+      line-height: 26.08px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .place__paragraph {
+      font-size: 16px;
+      line-height: 26.08px;
+      margin-left: 16px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__paragraph {
-  max-width: 288px;
-  margin: 32px auto 25px auto;
+      max-width: 288px;
+      margin: 9px auto 25px auto;
   }
 }
