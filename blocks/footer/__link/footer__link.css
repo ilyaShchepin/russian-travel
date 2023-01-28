@@ -21,12 +21,3 @@
     line-height: 24px;
   }
 }
-
-@media screen and (max-width: 320px) {
-  .footer__link {
-    margin-right: 0;
-    margin-bottom: 32px;
-    font-size: 24px;
-    line-height: 24px;
-  }
-}
